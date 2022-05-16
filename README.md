@@ -1,3 +1,3 @@
 # Milky Way Guardian
-## L+ Example
+## L+ Git lab
 
